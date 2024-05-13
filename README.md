@@ -19,7 +19,7 @@ Google DeepMind has taken the wraps off a new version of AlphaFold, their transf
 - https://twitter.com/jankosinski/status/1789760747779629365?s=12
 
 
-### Isomorphiclabs.com 
+## Isomorphiclabs.com 
 
 - https://www.isomorphiclabs.com/
 
